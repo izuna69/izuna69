@@ -11,4 +11,4 @@
 ![Jinyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=izuna69&show_icons=true&theme=tokyonight)
 
 ### 📫 연락처
-📧 ddong17592@email.com
+📧 ddong17592@gmail.com
