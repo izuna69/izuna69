@@ -8,7 +8,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)
 
 ### 📊 GitHub Stats
-![Jinyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight)
+![Jinyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=izuna69&show_icons=true&theme=tokyonight)
 
 ### 📫 연락처
 📧 jinyoung@email.com
