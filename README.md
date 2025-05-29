@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 안녕하세요! 김진영입니다.
 
-<!--
-**izuna69/izuna69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 지금은 Flutter, Node.js, AWS 공부 중이에요.
 
-Here are some ideas to get you started:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 사용 기술
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)
+
+### 📊 GitHub Stats
+![Jinyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight)
+
+### 📫 연락처
+📧 jinyoung@email.com
