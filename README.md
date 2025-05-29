@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/izuna69/izuna69/assets/여기에-gif-주소.gif" width="100%" />
+  <img src="https://private-user-images.githubusercontent.com/94025204/448689658-6f349e63-657c-4d0b-b487-03f32ae48d85.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0OTU5NzMsIm5iZiI6MTc0ODQ5NTY3MywicGF0aCI6Ii85NDAyNTIwNC80NDg2ODk2NTgtNmYzNDllNjMtNjU3Yy00ZDBiLWI0ODctMDNmMzJhZTQ4ZDg1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI5VDA1MTQzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY5ZDYwZDdhNTE4NzA4MjFkOWU3NzFjMjJiOTdkMGFhNzI3YjNkZDA1ZjllNDExYjFjMjNjNGJjYjBiOTgyN2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2XI856xWM9jJBkh9yCdODn_bxS_HtjU3_pDMwCSoRFg" width="100%" />
 </div>
 
 ---
@@ -8,12 +8,8 @@
 
 ![Izuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=izuna69&show_icons=true&theme=tokyonight)
 
----
-
 ### 🔧 사용 기술
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
