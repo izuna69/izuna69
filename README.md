@@ -7,7 +7,7 @@
 
 ### 📊 GitHub Stats  
 
-<p align="center">
+<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=izuna69&show_icons=true&theme=tokyonight" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izuna69&layout=compact&theme=tokyonight" width="390" height="170" />
 </p>
